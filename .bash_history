@@ -91,3 +91,56 @@ git add README.md
 git commit -m "first commit??"
 git push -u origin master
 cat ~/.ssh/id_rsa.pub
+ls
+cd ..
+ls
+cd helloworld
+ls
+cd home
+ls
+cd .
+cd ..
+ls
+cd dev
+ls
+cd ..
+cd helloworld
+ls
+cat node_modules
+cd node_modules
+ls
+cd ..
+ls
+cat package.json
+ls
+nano index.js
+ls
+git init
+git commit master
+git commit
+git commit -a
+git init
+git commit -a
+git commit -u
+git add
+git add .
+git commit -a
+git push origin master
+node index.js
+nano index.js
+node index.js
+nodemon index.js
+nano index.js
+nodemon index.js
+nano index.js
+node index.js
+nano index.js
+nodemon index.js
+loglevel
+ls
+logLevel: 'error',
+ls
+cd -
+ls
+cd ..
+ls
