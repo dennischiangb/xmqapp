@@ -1,0 +1,21 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "description": "slack app",
+  "main": "index.js",
+  "scripts": {
+    "test": "/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https;//github.com/dennischiangb/xmqapp.git"
+  },
+  "keywords": [
+    "xmqapp"
+  ],
+  "author": "Amennis",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.14.1"
+  }
+}

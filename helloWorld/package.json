@@ -1,0 +1,14 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "my first slack bot, bitch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yo :D",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.14.2"
+  }
+}
